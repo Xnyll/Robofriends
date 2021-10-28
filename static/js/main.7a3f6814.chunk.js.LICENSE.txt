@@ -1,0 +1,1 @@
+//!robots.length could work too as it evaluates to true
